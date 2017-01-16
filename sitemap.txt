@@ -1,0 +1,5 @@
+---
+permalink: sitemap.txt
+---
+https://support.rackspace.com/
+https://support.rackspace.com/white-paper/

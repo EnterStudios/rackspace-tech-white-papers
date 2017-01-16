@@ -1,0 +1,11 @@
+<div class="wp-list">
+  {% for wp in site.pages %}
+    {% if wp.product == page.product and wp.title != page.title %}
+    <div class="wp-entry">
+      <h4>
+        <a href="{{ site.baseurl }}{{ wp.permalink }}">{{ wp.title }}</a>
+      </h4>
+    </div>
+    {% endif %}
+  {% endfor %}
+</div>
