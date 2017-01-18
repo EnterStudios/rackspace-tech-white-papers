@@ -92,8 +92,8 @@ Follow these steps to create a new white paper within a category folder of the
            created_by: Your name
            last_modified_date: 'YYYY-MM-DD'
            last_modified_by: Your name
-           category: Name of category
-           category_url: category-url
+           product: White Paper
+           product_url: category
            ---
 5. Write your white paper in Markdown. Markdown guidelines are at https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet.
 

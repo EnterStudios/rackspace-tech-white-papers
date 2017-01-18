@@ -7,8 +7,8 @@ created_date: 'yyyy-mm-dd'
 created_by: First Last
 last_modified_date: 'yyyy-mm-dd'
 last_modified_by: First Last
-product: Cloud Product
-product_url: cloud-product
+product: White Paper
+product_url: category
 ---
 
 Write your white paper in Markdown. For Markdown help, see the

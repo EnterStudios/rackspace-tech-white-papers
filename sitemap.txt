@@ -3,3 +3,9 @@ permalink: sitemap.txt
 ---
 https://support.rackspace.com/
 https://support.rackspace.com/white-paper/
+https://support.rackspace.com/white-paper/DevOps/building-your-devops-engine-a-guide-to-tearing-down-organizational-silos-to-create-more-reposive-enterprise-it/
+https://support.rackspace.com/white-paper/DevOps/devops-hiring-in-a-nutshell-how-to-build-a-winning-devops-team/
+https://support.rackspace.com/white-paper/DevOps/understanding-devops-foster-a-culture-for-building-better-apps-faster/
+https://support.rackspace.com/white-paper/RPC/rackspace-private-cloud-powered-by-openstack-helps-reduce-costs-and-improve-operational-efficiency/
+https://support.rackspace.com/white-paper/RPC/rackspace-private-cloud-security/
+ttps://support.rackspace.com/white-paper/RPC/ready-for-your-enterprise-production-workloads/
