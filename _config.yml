@@ -15,3 +15,6 @@ defaults:
 assets:
   sources:
     - _assets/img
+
+deconst_default_unsearchable:
+  - unsearchable: true
